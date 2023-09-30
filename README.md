@@ -1,5 +1,5 @@
 # rudra
 this is my first git repository
 <br>
-Author - Rohit Joshi
+Author - Rohit Joshi(GraphicEra)
 </br>
